@@ -51,8 +51,8 @@
 
 <p align="center">
 
-[![Instagram](https://img.shields.io/badge/-Instagram-pink?style=for-the-badge&logo=instagram)](SEU_LINK)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](SEU_LINK)
+[![Instagram](https://img.shields.io/badge/-Instagram-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/jvitor.code/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/joão-vitor-604a0a3b6)
 
 </p>
 
