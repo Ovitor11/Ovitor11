@@ -1,11 +1,8 @@
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1f2937&height=120&section=header"/>
 
-<h1 align="center">👋 Olá, eu sou o Vitor</h1>
-
-<h3 align="center">💻 Front-end Developer</h3>
-
 <p align="center">
-🚀 Em constante evolução | Apaixonado por tecnologia
+  <img src="https://readme-typing-svg.herokuapp.com?color=1f2937&size=28&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+o+Vitor;Seja+bem-vindo;Front-end+Developer" />
 </p>
 
 ---
