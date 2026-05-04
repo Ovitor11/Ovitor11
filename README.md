@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=43FFD1&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1f2937&height=120&section=header"/>
 
 <h1 align="center">👋 Olá, eu sou o Vitor</h1>
 
@@ -69,4 +69,5 @@
 - 📚 Aprendendo React e TypeScript
 
 ---
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=43FFD1&height=120&section=footer"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1f2937&height=120&section=footer"/>
